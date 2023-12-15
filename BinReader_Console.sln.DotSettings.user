@@ -3,5 +3,8 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::81D36864-FFFE-447B-A915-949A0722A6DA::net5.0::BinReader_ConsoleTests.Models.ByteWrapperTest.Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::81D36864-FFFE-447B-A915-949A0722A6DA::net5.0::BinReader_ConsoleTests.Models.FileReaderTest.ReadBytesTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::81D36864-FFFE-447B-A915-949A0722A6DA::net5.0::BinReader_ConsoleTests.Models.ComparerTest.GetMatchedBytesTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::81D36864-FFFE-447B-A915-949A0722A6DA::net5.0::BinReader_ConsoleTests.Models.ComparerTest.GetMatchedBytesTest([0, 1, 2, 3, 1, ...])&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::81D36864-FFFE-447B-A915-949A0722A6DA::net5.0::BinReader_ConsoleTests.Models.ComparerTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
